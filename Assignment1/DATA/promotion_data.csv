@@ -1,0 +1,21 @@
+promotion_id,promotion_name,description,start_date,end_date,discount_percentage
+1,SummerSale2024,Up to 50% off on summer essentials,2024-06-01 00:00:00,2024-06-30 23:59:59,25.0
+2,BackToSchool,Get ready for school with special discounts,2024-08-15 00:00:00,2024-09-15 23:59:59,20.0
+3,FallFashionFest,Discover the latest fall fashion trends,2024-09-01 00:00:00,2024-09-30 23:59:59,30.0
+4,ElectronicsExpo,Unbeatable deals on electronics,2024-10-15 00:00:00,2024-11-15 23:59:59,15.0
+5,HolidaySavings,Celebrate the season with big savings,2024-12-01 00:00:00,2024-12-31 23:59:59,40.0
+6,NewYearNewYou,Start the year with discounts on health products,2025-01-01 00:00:00,2025-01-31 23:59:59,20.0
+7,ValentinesSpecial,Sweetheart deals for a romantic celebration,2025-02-01 00:00:00,2025-02-14 23:59:59,15.0
+8,SpringClearance,"Out with the old, in with the savings",2025-03-15 00:00:00,2025-04-15 23:59:59,35.0
+9,TechFrenzy,Exclusive tech offers for gadget enthusiasts,2025-04-01 00:00:00,2025-04-30 23:59:59,25.0
+10,SummerAdventure,Gear up for summer adventures with discounts,2025-06-01 00:00:00,2025-06-30 23:59:59,30.0
+11,BackToCollege,Get back to college with amazing deals,2025-08-15 00:00:00,2025-09-15 23:59:59,20.0
+12,AutumnHarvest,Harvest the savings on fall essentials,2025-09-01 00:00:00,2025-09-30 23:59:59,25.0
+13,BlackFridayBonanza,Don't miss out on the Black Friday madness,2025-11-28 00:00:00,2025-11-29 23:59:59,50.0
+14,HolidayJoy,Spread joy with special discounts for the holidays,2025-12-01 00:00:00,2025-12-31 23:59:59,40.0
+15,NewYearResolution,Kickstart your resolutions with savings,2026-01-01 00:00:00,2026-01-31 23:59:59,15.0
+16,ValentinesDayLove,Express your love with heartfelt savings,2026-02-01 00:00:00,2026-02-14 23:59:59,20.0
+17,SpringRefresh,Refresh your space with springtime discounts,2026-03-15 00:00:00,2026-04-15 23:59:59,30.0
+18,TechShowcase,Showcasing the latest tech at discounted prices,2026-04-01 00:00:00,2026-04-30 23:59:59,25.0
+19,SummerSizzle,Sizzle up your summer with hot deals,2026-06-01 00:00:00,2026-06-30 23:59:59,35.0
+20,BackToSchoolRush,Beat the rush with back-to-school savings,2026-08-15 00:00:00,2026-09-15 23:59:59,15.0

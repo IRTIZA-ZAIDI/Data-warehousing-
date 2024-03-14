@@ -1,0 +1,16 @@
+employee_id,first_name,last_name,email,position,hire_date
+1,John,Smith,john.smith@example.com,Manager,2020-02-15
+2,Jane,Doe,jane.doe@example.com,Developer,2019-07-10
+3,Michael,Johnson,michael.j@example.com,Accountant,2021-01-05
+4,Emily,Williams,emily.w@example.com,Designer,2022-03-20
+5,David,Jones,david.jones@example.com,Engineer,2020-11-08
+6,Jessica,Miller,jessica.m@example.com,Marketing Specialist,2018-04-25
+7,Christopher,Davis,chris.davis@example.com,HR Manager,2019-09-12
+8,Olivia,Garcia,olivia.g@example.com,Data Analyst,2021-06-30
+9,Daniel,Rodriguez,daniel.rodr@example.com,Sales Representative,2019-03-15
+10,Sophia,Martinez,sophia.m@example.com,Customer Support,2020-08-22
+11,Matthew,Jackson,matthew.j@example.com,Project Manager,2018-11-05
+12,Ava,Taylor,ava.taylor@example.com,Graphic Designer,2017-09-18
+13,Andrew,Anderson,andrew.a@example.com,Software Engineer,2019-12-03
+14,Grace,Moore,grace.moore@example.com,Financial Analyst,2018-08-15
+15,Ethan,Walker,ethan.walker@example.com,IT Specialist,2022-02-28

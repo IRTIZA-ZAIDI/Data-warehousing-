@@ -1,0 +1,6 @@
+payment_method_id,description
+1,Credit Card
+2,PayPal
+3,Apple Pay
+4,Cash On Delivery
+5,Bank Transfer
